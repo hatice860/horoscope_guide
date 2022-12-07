@@ -1,4 +1,4 @@
-# horoscope_guide
+#HoroscopeGuide 
 
 A new Flutter project.
 
